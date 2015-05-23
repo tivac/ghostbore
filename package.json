@@ -1,0 +1,13 @@
+{
+  "name": "ghostbore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Patrick Cavit <pcavit@arena.net>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^2.2.5",
+    "selenium-launcher": "^1.1.11",
+    "webdriverio": "^2.4.5"
+  }
+}
